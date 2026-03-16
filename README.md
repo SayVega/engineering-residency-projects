@@ -11,4 +11,4 @@ LambdaClass Engineering Residency self-learning path.
 - [Project 2 – Async Linkchecker](https://github.com/SayVega/linkchecker)
 - [Project 3 – Rusty LC3](https://github.com/SayVega/lc3-vm)
 - [Project 4 – Ethrex Demo](https://www.youtube.com/watch?v=y9T-gOWo5Ew)
-- [Project 5 – Forth Interpreter(In Progress)](https://github.com/SayVega/forth-interpreter)
+- [Project 5 – Forth Interpreter](https://github.com/SayVega/forth-interpreter)
